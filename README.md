@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
      Discord: 🎃Shun👻#7049
-     Twitter: @
+     Twitter: @VibingShun
+     Email: KeroKeroMosquito@protonmail.com
 
 <!---
 ShunShoegaze/ShunShoegaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
