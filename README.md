@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShunShoegaze
 - 👀 I’m interested in videogames, graphics design and anime
 - 🌱 I’m currently learning UI Design and C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m collaborating with JuniorJacki on the project EV3_Control
 - 📫 How to reach me:
      Discord: 🎃Shun👻#7049
      Twitter: @VibingShun
