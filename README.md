@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning UI Design and C#
 - 💞️ I’m collaborating with JuniorJacki on the project EV3_Control
 - 📫 How to reach me:
-     Discord: 🎃Shun👻#7049
-     Twitter: @VibingShun
+     Discord: DreamcasterShun#3781
      Email: KeroKeroMosquito@protonmail.com
 
 <!---
